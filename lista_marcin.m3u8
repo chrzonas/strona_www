@@ -1,0 +1,371 @@
+#EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
+#EXTINF:0 tvg-id="13 Ulica" group-title="Filmowe" timeshift="3", 13 Ulica
+http://8.team.ga:80/ch854/mono.m3u8?token=chrzonas.v2_pdx8uv7aKGLI1tSqvk14nKhUfMgVQ8MldPlbbhuVykrnP4XbAGTY4-XctRunBPzuR688WC5H53zJ
+#EXTINF:0 tvg-id="Active Family" group-title="Lifestylowe" timeshift="3", Active Family
+http://8.team.ga:80/ch855/mono.m3u8?token=chrzonas.v2_HIQ8CH5Xz0bt3QPmL-RhXTQ6zhEFlCpAhXj0iwjjbKJlsirR4l0Stgva5VXy7M1V3N--5ubBuUH1
+#EXTINF:0 tvg-id="Adventure" group-title="Lifestylowe" timeshift="3", Adventure
+http://8.team.ga:80/ch856/mono.m3u8?token=chrzonas.v2_nAcAckbpCxwsNQj5ya3O3cFxx9NrjO7lcS1W3qM6wU93v6xpIkx9-vIDJRHYvOfs6UaIZtTVKsCr
+#EXTINF:0 tvg-id="Ale Kino+" group-title="Filmowe" timeshift="3", Ale Kino+
+http://8.team.ga:80/ch857/mono.m3u8?token=chrzonas.v2_ay1Z94P7KKKjri5VubuJFdu9O-d7qAU_Sy55h7Pc-fIPlrxQVrO5zNvZB2pWCxt62mUcUq4g7FpW
+#EXTINF:0 tvg-id="Animal Planet" group-title="Dokumentalne" timeshift="3", Animal Planet
+http://8.team.ga:80/ch858/mono.m3u8?token=chrzonas.v2_QaJdO7ul-4Y4rC03t9fvUOMMAbYNM73FQxhlo1se3vsg2PwfxpqOe7D1CYiTNadnFAo3bldFb7pP
+#EXTINF:0 tvg-id="AXN" group-title="Filmowe" timeshift="3", AXN
+http://8.team.ga:80/ch859/mono.m3u8?token=chrzonas.v2_KwDHe61Uh9mNdqSE57Vb7EbgBeWAoagzJiJxKh_Nt4Hw4giy_vlp86SK6JVHVHaOuWzxNYRcz5W5
+#EXTINF:0 tvg-id="AXN Black" group-title="Filmowe" timeshift="3", AXN Black
+http://8.team.ga:80/ch860/mono.m3u8?token=chrzonas.v2_-MOtt2LMhs_7dNsvgCIeHHMKZsZobzlbZqIgZB1AMc-l8-pbiKd64Ijb7z7r83noRBwmcCtzQ61U
+#EXTINF:0 tvg-id="AXN White" group-title="Filmowe" timeshift="3", AXN White
+http://8.team.ga:80/ch861/mono.m3u8?token=chrzonas.v2_NiB6hVW27eePfLHwkuaFZtpeVkdXYAf7s-CK7v2SGeCaf1-qTTumAC5wBci_pkm4O7qZNtIhzp0P
+#EXTINF:0 tvg-id="AXN Spin" group-title="Filmowe" timeshift="3", AXN Spin
+http://8.team.ga:80/ch862/mono.m3u8?token=chrzonas.v2_8JrvVxj2uptfGVeZgES9wY-9Jk1vDSejTnczSXwO7ME9pYbGBriTY6axzkpvGa_w5Q3qjTZQLAZm
+#EXTINF:0 tvg-id="AMC" group-title="Filmowe" timeshift="3", AMC
+http://8.team.ga:80/ch2141/mono.m3u8?token=chrzonas.v2_Nx7xQxbtjLDP8L06yWqfYyodVocr98WN6bNyuip7Wt2AIvhQf_fGgqLSqNsV0rUIoz2b7h8-Czy-mg
+#EXTINF:0 tvg-id="BBC Earth" group-title="Dokumentalne" timeshift="3", BBC Earth
+http://8.team.ga:80/ch863/mono.m3u8?token=chrzonas.v2_TBquDCfPN3OruPcb5QuTin-iBd3Rr02BImT1NzPwB2tihp5N3oeiXwsdjZI6amHYLsqOs4HmHu6y
+#EXTINF:0 tvg-id="BBC First" group-title="Dokumentalne" timeshift="3", BBC First
+http://8.team.ga:80/ch864/mono.m3u8?token=chrzonas.v2_FPFeUQ2biqAQxyWEh8EJK15jJuhZJ3CT7-rVnqXvXII32yP6HhzcGmLLxHRlhbN3Hcyracigi4Sd
+#EXTINF:0 tvg-id="BBC Brit" group-title="Dokumentalne" timeshift="3", BBC Brit
+http://8.team.ga:80/ch2143/mono.m3u8?token=chrzonas.v2_WIu2hvU9FYf5_lOzYASAf_k9zlwbYyN8-cnbNQ7yob1sB5VSBZBVD9MCpQOO-795OkQ0lI9Tl7JC3Q
+#EXTINF:0 tvg-id="BBC Lifestyle" group-title="Lifestylowe" timeshift="3", BBC Lifestyle
+http://8.team.ga:80/ch2147/mono.m3u8?token=chrzonas.v2_rXL-x3OoshaaevXNkHZNfOsEqd6P9k_A03waX3nREcpfjPPAQDCE2LJABU2QZAfYi57nAiUJxXKkuA
+#EXTINF:0 tvg-id="BBC CBeebies" group-title="Dla dzieci" timeshift="3", BBC CBeebies
+http://8.team.ga:80/ch2175/mono.m3u8?token=chrzonas.v2_VnbVY6zc137mwbrzbxDwNShqW6on1tB-DhAQiOn5q5zHBM72hit1f71qshUDBzAjYdZJSxRg7505iQ
+#EXTINF:0 tvg-id="Biznes24" group-title="Informacyjne" timeshift="3", Biznes24
+http://8.team.ga:80/ch2157/mono.m3u8?token=chrzonas.v2_TWLVnbaVvbGH2e-gZ3bp4nT-PC4gS4r1MKkP47Ji4fnmZFoe-yn9baaOEZtexuCoTKAOw_Ze_nJJUg
+#EXTINF:0 tvg-id="Canal+ Premium" group-title="Filmowe" timeshift="3", Canal+ Premium
+http://8.team.ga:80/ch865/mono.m3u8?token=chrzonas.v2_z9lq4eDhlrCKjKvWQIavneK2Zkjsa0-PKnwoPkG6GHA0Dpem_Bj3AMckPxy0WWEd8I_bPndoIFPU
+#EXTINF:0 tvg-id="CANAL+ 1" group-title="Filmowe" timeshift="3", CANAL+ 1
+http://8.team.ga:80/ch866/mono.m3u8?token=chrzonas.v2_hqWf3FONaob0fIckU-SiT06a1LECoUyu0ryvZa6Fiyiq1ev89weAzlLBVczfZ-1i1DZZcUAp2yt8
+#EXTINF:0 tvg-id="Canal+ Dokument" group-title="Dokumentalne" timeshift="3", Canal+ Dokument
+http://8.team.ga:80/ch867/mono.m3u8?token=chrzonas.v2_3D8MEYtQIsbhqCxmrckK67KwbtmnSZM2DQrZPX1madi9xfBqADEDRcVSanmDYDneeAJqLn9VOvmg
+#EXTINF:0 tvg-id="Canal+ 360" group-title="Filmowe" timeshift="3", Canal+ 360
+http://8.team.ga:80/ch868/mono.m3u8?token=chrzonas.v2_fQ0oVPIQK6ttaD0tx9bpumc_h94hFOLxiAxEh_NX73cLu52sj8ICVSrm80h2HczbwBTGGKRQ3CmT
+#EXTINF:0 tvg-id="Canal+ Film" group-title="Filmowe" timeshift="3", Canal+ Film
+http://8.team.ga:80/ch869/mono.m3u8?token=chrzonas.v2_r3zZhLFF1mEYktBSJkqOLhaPPKF6CydworON2EeJD4D5R3xRZe71pRwkrg7tuy9EIhoqPJx1Q4UX
+#EXTINF:0 tvg-id="Canal+ Now" group-title="Sportowe" timeshift="3", Canal+ Now
+http://8.team.ga:80/ch870/mono.m3u8?token=chrzonas.v2_QDS1iCf3lLHutrQq4JLYa0uam3kScgeYh2mWa6TH30z04SfYIcbWbwDAnzcf0i05erwlX87a4PP9
+#EXTINF:0 tvg-id="Canal+ Seriale" group-title="Filmowe" timeshift="3", Canal+ Seriale
+http://8.team.ga:80/ch871/mono.m3u8?token=chrzonas.v2_ZIKQ2gzmsMObvJHV0rT1QBu9bIvOGQYm1LeVhK65oHbxnZnUTtNGPTtYcbk-kUkDuxTugn0umhU6
+#EXTINF:0 tvg-id="Canal+ Sport" group-title="Sportowe" timeshift="3", Canal+ Sport
+http://8.team.ga:80/ch872/mono.m3u8?token=chrzonas.v2_3q9qa2ATjQrLS6HR3IivDGO-l9w9HC9e5_ePuq_JN_vUHl4FMDUW4jt9nCR30BYEZ5JKcTtcB31_
+#EXTINF:0 tvg-id="Canal+ Sport 2" group-title="Sportowe" timeshift="3", Canal+ Sport 2
+http://8.team.ga:80/ch873/mono.m3u8?token=chrzonas.v2_oS-0OdEhgvZ5JA6FmIdgREGFKPV8hiJSHIiYpJ2TYlakCQ0ejq2qc4YPwUC3f6c1Q8m7M-YoMt_b
+#EXTINF:0 tvg-id="Canal+ Sport 3" group-title="Sportowe" timeshift="3", Canal+ Sport 3
+http://8.team.ga:80/ch874/mono.m3u8?token=chrzonas.v2_-MQTa8UXk1VTBH5D0hz1vDDztfux3Jvxr2A12orL6DlURvyZkUc1Ltsb_rUE5R-tzeHhMIWJ2HLR
+#EXTINF:0 tvg-id="Canal+ Sport 4" group-title="Sportowe" timeshift="3", Canal+ Sport 4
+http://8.team.ga:80/ch875/mono.m3u8?token=chrzonas.v2_a91ld3GgzFRVrKlKVL0E-1UZRrWmkVK7PkbzOiXyLD-9eE0qroSedY5f6y3dzGM4Sr5aAkj99zFi
+#EXTINF:0 tvg-id="Canal+ Sport 5" group-title="Sportowe" timeshift="3", Canal+ Sport 5
+http://8.team.ga:80/ch920/mono.m3u8?token=chrzonas.v2_ILSLvNz9YuT9BSYYJodkuqAInzIJzW-loKauAHYaYwsIBH-a-J3grYiSHhN-9giL6H7txotK2T-P
+#EXTINF:0 tvg-id="Canal+ Extra 1" group-title="Sportowe" timeshift="3", Canal+ Extra 1
+http://8.team.ga:80/ch2188/mono.m3u8?token=chrzonas.v2_vt4uqqXjPHaz7_qp6MpNmaZscATCK5EK3O4dbzgKs8PmoHWoYkYvjMU8NwNEr6hlx4NoDh3NQSa62g
+#EXTINF:0 tvg-id="Canal+ Extra 2" group-title="Sportowe" timeshift="3", Canal+ Extra 2
+http://8.team.ga:80/ch2148/mono.m3u8?token=chrzonas.v2_fTgwX0ZnldDbC_CuWyeBDQNq73ShdgW_AZcUzs70-fNx80cXd4_3ZDKaPzgmSS66EJTW47i6eBANLw
+#EXTINF:0 tvg-id="Canal+ Extra 3" group-title="Sportowe" timeshift="3", Canal+ Extra 3
+http://8.team.ga:80/ch2149/mono.m3u8?token=chrzonas.v2_ZEoOoMmLN6_iIUHZNTDGb7PvKCA-k9kJAPrWwiWvradJqNt7SIj5S0Wop6k2P8W70Wbq_jQqs0g1DQ
+#EXTINF:0 tvg-id="Canal+ Extra 4" group-title="Sportowe" timeshift="3", Canal+ Extra 4
+http://8.team.ga:80/ch2152/mono.m3u8?token=chrzonas.v2_gYQ3TLRfuN1KISy5pS4Do5pqmxKcl77Gdbkg6Ls6euYStAOe3NEXQwr99ZOTGai-VRI_2obHc1W2ow
+#EXTINF:0 tvg-id="Canal+ Extra 5" group-title="Sportowe" timeshift="0", Canal+ Extra 5
+http://8.team.ga:80/ch3731/mono.m3u8?token=chrzonas.v2_uFIKx5-R3Yf5PNtEhtHfeAB21zPFyG6gYiWBS25PtTK2r6b9OhJYXiEOtlp_SW3UDNbGjpa_PF332Q
+#EXTINF:0 tvg-id="Canal+ Extra 6" group-title="Sportowe" timeshift="0", Canal+ Extra 6
+http://8.team.ga:80/ch3732/mono.m3u8?token=chrzonas.v2_mn7YAeIo52AanzjDUN-m6ViiFQZKLoDfpAVwqDQf1CmFLFWV__SyrKAjST1Mt4s5jfbzxGTNZEypgA
+#EXTINF:0 tvg-id="Canal+ Extra 7" group-title="Sportowe" timeshift="0", Canal+ Extra 7
+http://8.team.ga:80/ch3733/mono.m3u8?token=chrzonas.v2_NMaz8chK_EmNT1TYVXsRl1tkadIy_RIKaHIAJj6jqpIGV2Vf6IvuFG-k2jKPxDCgaeaOZqqvCBK8BA
+#EXTINF:0 tvg-id="CBS Reality" group-title="Filmowe" timeshift="3", CBS Reality
+http://8.team.ga:80/ch876/mono.m3u8?token=chrzonas.v2_Su9l_lDhMKtpMF1OeuFfT4FA1q5xCUmwVbfd3bpW3mj3b_SxMai2rpvTmzv0M_HTW6p5ueq6RYLB
+#EXTINF:0 tvg-id="Cinemax" group-title="Filmowe" timeshift="3", Cinemax
+http://8.team.ga:80/ch878/mono.m3u8?token=chrzonas.v2_zmLkaPKU34gJRS1cbUWicoX13RAEUpmK09G7UvcXLZnPqHmwo5-alwvFi4G3FZNWlt8r2XI7oNHe
+#EXTINF:0 tvg-id="Cinemax 2" group-title="Filmowe" timeshift="3", Cinemax 2
+http://8.team.ga:80/ch877/mono.m3u8?token=chrzonas.v2_IG08pAytOpnB06dPE23ylpZlGtb4ikQFLOuiEwW7qtkuZqdpptLauXtzh7eT886czTbgfvcyk6cP
+#EXTINF:0 tvg-id="Comedy Сentral" group-title="Filmowe" timeshift="3", Comedy Сentral
+http://8.team.ga:80/ch879/mono.m3u8?token=chrzonas.v2_rVw-IRL-4PWcnGRMt8-__6KN7KqBsh-gYlBQFC_TdK6OoZ5gtnujAAdToBtPlpsxLkaanoX99sfz
+#EXTINF:0 tvg-id="Cartoon Network" group-title="Dla dzieci" timeshift="3", Cartoon Network
+http://8.team.ga:80/ch2182/mono.m3u8?token=chrzonas.v2_Q5nvb_deZKxJScbqUnqLunS7Dpqe5hRzwRz52QFgZSGeA7PI9w95VhEp2AETORmtY0bLlMYUNebDCQ
+#EXTINF:0 tvg-id="CI Polsat" group-title="Dokumentalne" timeshift="3", CI Polsat
+http://8.team.ga:80/ch880/mono.m3u8?token=chrzonas.v2_PZnYkAQ_3-vhIPzDrLqGu-qVdQVLHbd7OpjlInLXjCwrmwt8KDkIGN68dDxGnvJ0pB0shS54AmBY
+#EXTINF:0 tvg-id="Discovery" group-title="Dokumentalne" timeshift="3", Discovery
+http://8.team.ga:80/ch881/mono.m3u8?token=chrzonas.v2_TgUTmr2m2AmA4-6zA9gBKuVuxrb4XTh5zIwxpV27mYwrPinRVN7rRtvO8dk2dDPpz-3J9MzFDwsf
+#EXTINF:0 tvg-id="Discovery Historia" group-title="Dokumentalne" timeshift="3", Discovery Historia
+http://8.team.ga:80/ch882/mono.m3u8?token=chrzonas.v2_-TrKoTXRyj0iq1Bl6Ln4N1U9XpUKrlQbsr0jFTkoXZt-8JGLxA97NpLAYuC4NV-LllH_Pgs7NTb-
+#EXTINF:0 tvg-id="Discovery Life" group-title="Dokumentalne" timeshift="3", Discovery Life
+http://8.team.ga:80/ch883/mono.m3u8?token=chrzonas.v2_Rx33giNH1-t7myt38Ao1GMSxvwXH27XWPWtj74xX8pRlXaSpZ2G6PVCMuA-t5WpZzutA-9snZV5H
+#EXTINF:0 tvg-id="Discovery Science" group-title="Dokumentalne" timeshift="3", Discovery Science
+http://8.team.ga:80/ch884/mono.m3u8?token=chrzonas.v2_HxzZBVuPWCwjI_r3lHwVfmLk9JEvhWliSqEJ1rzu0FV1n7HBHW8Mh2V21DSlkJ0pvS6BsetjKQc1
+#EXTINF:0 tvg-id="DTX" group-title="Dokumentalne" timeshift="3", DTX
+http://8.team.ga:80/ch915/mono.m3u8?token=chrzonas.v2_4xqY9QjVtbISnRB_ainlAExoa63MFMW6928tEeNMQET8_29fiuZPKGE1JzaGDRR9xAvM_mOCRTBF
+#EXTINF:0 tvg-id="Domo TV" group-title="Lifestylowe" timeshift="3", Domo TV
+http://8.team.ga:80/ch885/mono.m3u8?token=chrzonas.v2_koMhrOnb53RDElGWAZxy9uNljvb_4_zTtuvzBC_PzJcrnW3krSQ87cSJUNevPCWk3ResVK9A-6yI
+#EXTINF:0 tvg-id="Da Vinci Learning" group-title="Dokumentalne" timeshift="3", Da Vinci Learning
+http://8.team.ga:80/ch2176/mono.m3u8?token=chrzonas.v2_7xQG8D4CEwM-BrdzqImHlJzLV1w4qkdBcL_6tE8lgRUB-EerqRV9vOx-7IZxns9rVSKav63lCuHJFw
+#EXTINF:0 tvg-id="Disney Jr" group-title="Dla dzieci" timeshift="3", Disney Jr
+http://8.team.ga:80/ch2204/mono.m3u8?token=chrzonas.v2_80HmUxhOPw4PbAMqe7sPdf3QMtiNe8j8O-1ARwqnlS7HFq7Jlfzs8BvTrOJLQRDjceOSmpvGMCPcxw
+#EXTINF:0 tvg-id="E! Entertainment" group-title="Lifestylowe" timeshift="3", E! Entertainment
+http://8.team.ga:80/ch886/mono.m3u8?token=chrzonas.v2_RG4t5dpt6gYFHLZBRm2ZILNlDmX7sHUVue_GOqpFxL1KjLfa3DLGlx6sXJ-7CxnQtxUDI68UkO6O
+#EXTINF:0 tvg-id="Eleven Sports 1 4K" group-title="Sportowe" timeshift="3", Eleven Sports 1 4K
+http://8.team.ga:80/ch637/mono.m3u8?token=chrzonas.v2_BrZrwx16v8xfIJI75Wr2vsa_gPqBBfZLACeUDqmG96p1MCnTRYNMvh_ZQ-CWwbw7T3uH1KSP2yxx
+#EXTINF:0 tvg-id="Eleven Sports 1" group-title="Sportowe" timeshift="3", Eleven Sports 1
+http://8.team.ga:80/ch887/mono.m3u8?token=chrzonas.v2_wcbMOOWycmBPog4cZfn6FV7lK9Oy6zu9h1oQouJANEuxX3UxvzkkHSdzqy2B8LKctrg0KjRfunCS
+#EXTINF:0 tvg-id="Eleven Sports 2" group-title="Sportowe" timeshift="3", Eleven Sports 2
+http://8.team.ga:80/ch888/mono.m3u8?token=chrzonas.v2_uFEIK6BfG0YjdoQAnsoi0y_Z636yNluycGThsbEviHrXg63arcXTpJNMiG5dZNrF7SUeh506DJcJ
+#EXTINF:0 tvg-id="Eleven Sports 3" group-title="Sportowe" timeshift="3", Eleven Sports 3
+http://8.team.ga:80/ch889/mono.m3u8?token=chrzonas.v2_Iw1LrS0_DR5i9mZl7TV9z6tog7r6gR_30_iPq0ix-L5SBXc3CAyvlBc9hfVolXULL-wiRzq7PKw0
+#EXTINF:0 tvg-id="Eleven Sports 4" group-title="Sportowe" timeshift="3", Eleven Sports 4
+http://8.team.ga:80/ch890/mono.m3u8?token=chrzonas.v2_tgfh4kRzeqPonnJR8ZZJ6wB1Wca95ziaLkYpeSPvFdj92oT0Yp8dW02h2CcibBhVMscmdAvQ6Wpp
+#EXTINF:0 tvg-id="Eurosport 1" group-title="Sportowe" timeshift="3", Eurosport 1
+http://8.team.ga:80/ch891/mono.m3u8?token=chrzonas.v2_CVt5rwLh2vsFHHorsZHcOMBBN6YbjwdtvV_j-JqwljJqL6VlOd7KrHV367asZskvwGLEkqAO56mw
+#EXTINF:0 tvg-id="Eurosport 2" group-title="Sportowe" timeshift="3", Eurosport 2
+http://8.team.ga:80/ch892/mono.m3u8?token=chrzonas.v2_dMPxa-e4vj_T1umzJFxV2SBUrSDZY1RC0kEX3-4810l1xgAXXI8adZoyB3iTlyCljbbEd1s_EmkH
+#EXTINF:0 tvg-id="Extreme Sports" group-title="Sportowe" timeshift="3", Extreme Sports
+http://8.team.ga:80/ch893/mono.m3u8?token=chrzonas.v2_uvDfDwo2Gyvooiy40lo-sWtmsQtjZVjrVfcadJszDbrXy472JDPRTiEqttMb8_tZ1RBlmbq9PVe2
+#EXTINF:0 tvg-id="Epic Drama" group-title="Filmowe" timeshift="3", Epic Drama
+http://8.team.ga:80/ch2144/mono.m3u8?token=chrzonas.v2_ZntUwwKyIMW2RFBQ1pcsL2uOxD_aOZNb0LaXAURxJsgDjqGnIdkQx2fDk1LW0XuYB89EmN9cp9oM5g
+#EXTINF:0 tvg-id="Eska TV" group-title="Muzyczne" timeshift="1", Eska TV
+http://8.team.ga:80/ch3734/mono.m3u8?token=chrzonas.v2_hc4DnE0XXvUBuO2toreMTJAVP_0ua25yK_lJLkvNIx3GY0Tl4njYJr-3dzMm30OWl4lEzO_llUOtaA
+#EXTINF:0 tvg-id="FightBox" group-title="Sportowe" timeshift="3", FightBox
+http://8.team.ga:80/ch894/mono.m3u8?token=chrzonas.v2_t61w6qy7SggENLfMDw4WKwAfJr1RWq5soKZXsCDS5Oy645PWzArQL-2T2y5ooVxxPvG3cjkSbDup
+#EXTINF:0 tvg-id="Fightklub" group-title="Sportowe" timeshift="3", Fightklub
+http://8.team.ga:80/ch895/mono.m3u8?token=chrzonas.v2_PTqAE6f--zxJlCu80Hy0fQw69YwBmygwEa6K8mgzW6ot3oXEuiSTHYkz4E_qM9kYCtxz8MfHFJa4
+#EXTINF:0 tvg-id="FilmBox Action" group-title="Filmowe" timeshift="3", FilmBox Action
+http://8.team.ga:80/ch896/mono.m3u8?token=chrzonas.v2_u9s9IWwx-N6H_pWuLMKV1lRZWgRBFBZD_v9WHd7qPSgPhl-2pZ1noKq6Cu6IyxHC3gw2SDttcHdJ
+#EXTINF:0 tvg-id="Filmbox Arthouse" group-title="Filmowe" timeshift="3", Filmbox Arthouse
+http://8.team.ga:80/ch897/mono.m3u8?token=chrzonas.v2_OJQWohwN3rvyp-pQSFzyhTpEQ5Sb_Zm9csvXgPzGGkIuTfGxaOvGa32UuesMVUeyodRvVorgkWAm
+#EXTINF:0 tvg-id="FilmBox Extra" group-title="Filmowe" timeshift="3", FilmBox Extra
+http://8.team.ga:80/ch898/mono.m3u8?token=chrzonas.v2_mIbm_2iLdpKFgpboGUteKcQa4XQT6oMmaYIbEEfGCuuLAmWQ12v2oiWLpFP1WFGwB7mxSlCFwhpv
+#EXTINF:0 tvg-id="FilmBox Family" group-title="Filmowe" timeshift="3", FilmBox Family
+http://8.team.ga:80/ch899/mono.m3u8?token=chrzonas.v2_BlizOU-aUvAOBph3nOE7sm6BSJWHDCF1-F4ueJNFf9GrtKEDhognBOKbli0sSaHKp7JvwMpDqewT
+#EXTINF:0 tvg-id="FilmBox Premium" group-title="Filmowe" timeshift="3", FilmBox Premium
+http://8.team.ga:80/ch900/mono.m3u8?token=chrzonas.v2_Iw_fFJ-Su8_xYXr_lErqrnFe-rhKdX-mnSYMESWkxi6BjjgjbMW-gt_FMAuQcv6gFV2en2alHa93
+#EXTINF:0 tvg-id="Food Network" group-title="Lifestylowe" timeshift="3", Food Network
+http://8.team.ga:80/ch901/mono.m3u8?token=chrzonas.v2_4G9-ZgMB4IAd2tRMakP3eN-tHddhQajXkcKwivYgn1YuibJhLFgz1kz4Pkfs-t8zVQnGaQbwMtY-
+#EXTINF:0 tvg-id="Fokus TV" group-title="Dokumentalne" timeshift="3", Fokus TV
+http://8.team.ga:80/ch3724/mono.m3u8?token=chrzonas.v2_sPD5PVjg4edcLk3BhiQ4jXNiKGoRWqYBdeYdINTtrJFTgqyAk44HWQrcBUqjA0RI3xfj47T-S6fZ6Q
+#EXTINF:0 tvg-id="FX" group-title="Filmowe" timeshift="3", FX
+http://8.team.ga:80/ch903/mono.m3u8?token=chrzonas.v2_oZDy1kNlpFkl5KrdNTd9X6D7wqHbZBilG8gIVZexCd7R0023WOaTAqMbWP0_6XCfmuJKwo9SMQYv
+#EXTINF:0 tvg-id="FX Comedy" group-title="Filmowe" timeshift="3", FX Comedy
+http://8.team.ga:80/ch902/mono.m3u8?token=chrzonas.v2__l6bAQT-F2aBqOgJx09mZwFBR4s8naLDlhxu3mUGxqWi4dVznDJNy2dUhVa8vfa0fNeX_pgwn7lh
+#EXTINF:0 tvg-id="History" group-title="Dokumentalne" timeshift="3", History
+http://8.team.ga:80/ch909/mono.m3u8?token=chrzonas.v2_KN083IT9rJJ5kh2SzFQT7GbXtaY265H7zzHMdPHY4vML2O7XyGLce6k75u6ANGFJMb2oofFlPIkf
+#EXTINF:0 tvg-id="H2" group-title="Dokumentalne" timeshift="3", H2
+http://8.team.ga:80/ch904/mono.m3u8?token=chrzonas.v2_UBeg81nFKcN_A37PqcZZblW3CaLeQpGlYarobJqZ4nnKZ3lfSRAn0DFxt8-ORG4A_6_wabupLZmr
+#EXTINF:0 tvg-id="HBO" group-title="Filmowe" timeshift="3", HBO
+http://8.team.ga:80/ch907/mono.m3u8?token=chrzonas.v2_R1_rsddrMy4vjXuxiMMSTv5zBG6fM6RPPAa1185WdxmeJXmQG2NcKzr8ciYqQMhiimm-LsaeM0wD
+#EXTINF:0 tvg-id="HBO 2" group-title="Filmowe" timeshift="3", HBO 2
+http://8.team.ga:80/ch905/mono.m3u8?token=chrzonas.v2_YRxcERlka6qzBzC9Tmw7djUxfuJhqqoUnuvDWWCjN49ng8qy0dFlxkDMcv3j4YK-NaDCi5ucrX1X
+#EXTINF:0 tvg-id="HBO 3" group-title="Filmowe" timeshift="3", HBO 3
+http://8.team.ga:80/ch906/mono.m3u8?token=chrzonas.v2_IFXo1TaCBnfz_tug565xKVt4JwBpiqOyP51aXDhjYMOeKB1jRSypiDvzIvAKa-Ot4Tzkf9B_8Km3
+#EXTINF:0 tvg-id="Home TV" group-title="Lifestylowe" timeshift="3", Home TV
+http://8.team.ga:80/ch2146/mono.m3u8?token=chrzonas.v2_NvJNtqAPc3ILD3CCwPPwAFsw3oCJ0xIsd-SPOTP4W2soNxUcLmXiX6ImBcpO9ZL1T1MP8iA5HxDIsQ
+#EXTINF:0 tvg-id="HGTV" group-title="Lifestylowe" timeshift="3", HGTV
+http://8.team.ga:80/ch908/mono.m3u8?token=chrzonas.v2_ENeWyOZVmvsK5vmBEkU45Qr9upae6_sYE3FxeDVwJkLVQUsNvTEW5wz9IF67bv_1YOY3ur1BalhM
+#EXTINF:0 tvg-id="Kino Polska" group-title="Filmowe" timeshift="3", Kino Polska
+http://8.team.ga:80/ch911/mono.m3u8?token=chrzonas.v2_2j7BiUpNTZW_XL-x835lKYR1Jg4iSoVURkhKIGLCy6BI-i1vMrMDhDV7hX6Mfgg_W0-7nzBrOAOM
+#EXTINF:0 tvg-id="Kino Polska Muzyka" group-title="Muzyczne" timeshift="3", Kino Polska Muzyka
+http://8.team.ga:80/ch912/mono.m3u8?token=chrzonas.v2__UN_HWaqi-iwHKWsKpB7tYpve5Aa15OvOcy1ac-WgBPXO6T2NC0MJk2dYOhRYQQokEqjvJaFNnJo
+#EXTINF:0 tvg-id="Kino TV" group-title="Filmowe" timeshift="3", Kino TV
+http://8.team.ga:80/ch913/mono.m3u8?token=chrzonas.v2_pYzxbqDEYLdqXy94Mj3ZeFRRbDliMwROfrwNJIy6dDqhFULGuX1raJMRncm9ul1hCvsE-Se3rNYJ
+#EXTINF:0 tvg-id="Kuchnia+" group-title="Lifestylowe" timeshift="3", Kuchnia+
+http://8.team.ga:80/ch914/mono.m3u8?token=chrzonas.v2_o-3ykAKfJQrMtsf0h7by4060OtxP7HLEIkdZvv8wvjQ8P_5nFRfw_dYzSyUOyWuAqOhTtI9o68OZ
+#EXTINF:0 tvg-id="Love Nature 4K" group-title="Dokumentalne" timeshift="3", Love Nature 4K
+http://8.team.ga:80/ch3725/mono.m3u8?token=chrzonas.v2_UZ7SYNNV0I-HqZUjZRLjB5ITtsqVGFp1nHr2_EvQbzHIUdN2_RtEyn8osEnRHNhKFkjrv5E9Ye5-IA
+#EXTINF:0 tvg-id="Metro" group-title="Filmowe" timeshift="3", Metro
+http://8.team.ga:80/ch2185/mono.m3u8?token=chrzonas.v2_Z15B2sg3UeXFQytawMp607466mswO23ZyqcgGTm7_BkeWNEeXIwn6WxcPhkeLoOLmkDzQejUF1cgRw
+#EXTINF:0 tvg-id="MiniMini" group-title="Dla dzieci" timeshift="3", MiniMini
+http://8.team.ga:80/ch916/mono.m3u8?token=chrzonas.v2_Ee324SRogKaVPpRyfcLtyfbHXbs8kOPMmUx3dwejlj9G9RsqAk6umOLmu55H1Zw55VN3fw9d4h6q
+#EXTINF:0 tvg-id="Motowizja" group-title="Sportowe" timeshift="3", Motowizja
+http://8.team.ga:80/ch917/mono.m3u8?token=chrzonas.v2_brvz0FiuB7psclq26-E9uMS89t30lF3Go_4jSOB6NeGyBxNiLlJ4ioeWhFo3cPzB-VDaBskH4CT9
+#EXTINF:0 tvg-id="MTV Music Polska" group-title="Muzyczne" timeshift="3", MTV Music Polska
+http://8.team.ga:80/ch2110/mono.m3u8?token=chrzonas.v2_rSjDgV-4dvS--EPrMNqGhwwwvcRJgd_n6PT9rO9vnUSsjA0a9eRel2CY5nueZFpXCca72HzPbC7CFA
+#EXTINF:0 tvg-id="Museum 4K" group-title="Dokumentalne" timeshift="3", Museum 4K
+http://8.team.ga:80/ch3728/mono.m3u8?token=chrzonas.v2_dCJ50vSXT5UTPOx06qgS_8o-cqt73TMl5i2H97gyjcF4gAP3vTyBluBuWOMSUQIb2DOBgp8R8f5L5g
+#EXTINF:0 tvg-id="MyZen 4K" group-title="Lifestylowe" timeshift="2", MyZen 4K
+http://8.team.ga:80/ch3727/mono.m3u8?token=chrzonas.v2_eRccrTwQrU-XxYpOcPWJ0bLwVKJlXBF0XmrZaZqz1TqfVf_bIeoo8E6OpCXJ16vWYc4tueKVUNFJig
+#EXTINF:0 tvg-id="Nat Geo" group-title="Dokumentalne" timeshift="3", Nat Geo
+http://8.team.ga:80/ch919/mono.m3u8?token=chrzonas.v2_FuAGB-rkglxCwLM6tBvw7i5gNyKuWqBYtmhV_NLKcNnaT7ke56CRnCxuKPLEKCWuXq0bmhfroVN5
+#EXTINF:0 tvg-id="Nat Geo Wild" group-title="Dokumentalne" timeshift="3", Nat Geo Wild
+http://8.team.ga:80/ch918/mono.m3u8?token=chrzonas.v2_uKA-9WVUn93sO3nrFXL4e-gBbxHYuPVQjOFZq0svp3Y7q6mD51dBiSnwUE2PRFPMlQ5Ytd0sNZor
+#EXTINF:0 tvg-id="Nuta TV" group-title="Muzyczne" timeshift="3", Nuta TV
+http://8.team.ga:80/ch2191/mono.m3u8?token=chrzonas.v2_XOgNlcD00zvHDjPu1G-hBnNEwnXQzm5ZkHHwBPNOCa04X28gOXYUphIIB1YrjhUihog6DYfaMNWxvA
+#EXTINF:0 tvg-id="Nickelodeon Polska" group-title="Dla dzieci" timeshift="3", Nickelodeon Polska
+http://8.team.ga:80/ch2192/mono.m3u8?token=chrzonas.v2_QGk22yV5T79v2SdfVvHhFUDy6-usaW_rBq6fBImb6UDh6xqfWRfrAROAke--NCtdEb-qdYgWCpC81g
+#EXTINF:0 tvg-id="Nicktoons" group-title="Dla dzieci" timeshift="3", Nicktoons
+http://8.team.ga:80/ch2156/mono.m3u8?token=chrzonas.v2_-vra2YBnPXov7tFRshgaD0BUAdjxEYJ0bZt4z7acn6P-hBYykCYGuJ9fVPO8SmGGqx1mib3NK1PHHg
+#EXTINF:0 tvg-id="Nowa TV" group-title="Lifestylowe" timeshift="3", Nowa TV
+http://8.team.ga:80/ch3730/mono.m3u8?token=chrzonas.v2_2zG8A-tESqouqNp5Z9vhwWtsG8noXkOw_IMh20zM63A_MF-jKvNtBEpEwcGSrfk56HqJGxJYdFOErw
+#EXTINF:0 tvg-id="Novelas+" group-title="Filmowe" timeshift="3", Novelas+
+http://8.team.ga:80/ch3722/mono.m3u8?token=chrzonas.v2_f9TzR2qUr7MOYNWZ6jDZ5BBWIERE0wdVcYfm1Mww9Plaul22OpXm62Sdmu1fduTK_eFGme2HHOjWiA
+#EXTINF:0 tvg-id="Planete+" group-title="Dokumentalne" timeshift="3", Planete+
+http://8.team.ga:80/ch921/mono.m3u8?token=chrzonas.v2_3oi1yW2xP0dGRiqLj1gT8q8siGBi2AIEofqzGSaLduoPW3WSEK9aKQyKJqs19w5aYlBnh0cIPGoX
+#EXTINF:0 tvg-id="Polo TV" group-title="Muzyczne" timeshift="3", Polo TV
+http://8.team.ga:80/ch3735/mono.m3u8?token=chrzonas.v2_9zR6421guiJLHiR84aJkYR87CXOiiNPPtXExQ87SZFI-ra36jEL8I-HvhLKUCcKAqVF9EMEC7Yl1SA
+#EXTINF:0 tvg-id="Polsat" group-title="Ogólnotematyczne" timeshift="3", Polsat
+http://8.team.ga:80/ch926/mono.m3u8?token=chrzonas.v2_OZ_wv5GDYm9j6fmXsPtbirN89O8fiBBD_RE2XMFjn_oCA5d5eur5AaF5aN4cHw2yP_qfqLANox42
+#EXTINF:0 tvg-id="Polsat 2" group-title="Ogólnotematyczne" timeshift="3", Polsat 2
+http://8.team.ga:80/ch922/mono.m3u8?token=chrzonas.v2_pVPRuhzl0Y6VwrbiRqOKTbC6xs5AMpBtjnNUYu0KoSRtMT3F71_ycmhCutB8SRr4JYGH7uudnIIQ
+#EXTINF:0 tvg-id="Polsat Comedy Central Extra" group-title="Lifestylowe" timeshift="3", Polsat Comedy Central Extra
+http://8.team.ga:80/ch942/mono.m3u8?token=chrzonas.v2_664YPJuse4hn3t4OznRx5TsoWU8fhdEgO-UUK9c86NZmqbXjHYvGt6H3LY1lPiLJ3CJ1P4qoktvM
+#EXTINF:0 tvg-id="Polsat Cafe" group-title="Ogólnotematyczne" timeshift="3", Polsat Cafe
+http://8.team.ga:80/ch923/mono.m3u8?token=chrzonas.v2_LomaiGA0AAGmrHTInHCyFuI_sIZfsiNGFE84tD70l2HHIUI4YJcRAIVRQC51iG98xjWdho8-Hwcl
+#EXTINF:0 tvg-id="Polsat Doku" group-title="Dokumentalne" timeshift="3", Polsat Doku
+http://8.team.ga:80/ch924/mono.m3u8?token=chrzonas.v2_frqRYy6C1iDfGqmyETt0ICHxvDcXj_qd6yfy7ov-Bn2lqpwURLod3Hu02Mg_-5kG_1JcH_uYSAlA
+#EXTINF:0 tvg-id="Polsat Film" group-title="Filmowe" timeshift="3", Polsat Film
+http://8.team.ga:80/ch925/mono.m3u8?token=chrzonas.v2_neK_lFRM9Hvd6q2KfZI1XmjhFvG9idys6TPHO6KIDCxs-0X9i3OEJiCFWST7dLUuOCdfOWfhzq2_
+#EXTINF:0 tvg-id="Polsat Film 2" group-title="Filmowe" timeshift="3", Polsat Film 2
+http://8.team.ga:80/ch3736/mono.m3u8?token=chrzonas.v2_ASBGPIlX8zYV1qGWf9A9XWrZf4s36xk5sNpQKGfEjnoMgVJVVKNY2xb92U96zJ7pWplfLvpoFsy8wQ
+#EXTINF:0 tvg-id="Polsat JimJam" group-title="Dla dzieci" timeshift="3", Polsat JimJam
+http://8.team.ga:80/ch910/mono.m3u8?token=chrzonas.v2_JIBdYmYxEGFX0Tfts2Zev2NLJvWfyS7Loxi0T1rFQhqSLxC6abqEWjZI9yqOvWLgPptaiVCvp-mc
+#EXTINF:0 tvg-id="Polsat Music" group-title="Muzyczne" timeshift="3", Polsat Music
+http://8.team.ga:80/ch927/mono.m3u8?token=chrzonas.v2_y0lWbGdCVsgfdj_qq4s2AUZa-1US9Awaz_rP6l9lcwfd_ZJBsjHGcNsO8OAWUK6Oke-Fv1Y7Blwf
+#EXTINF:0 tvg-id="Polsat News" group-title="Informacyjne" timeshift="3", Polsat News
+http://8.team.ga:80/ch929/mono.m3u8?token=chrzonas.v2_gdxBOmKqt8d774LfBEHWcEWFRjeoXMkL_UT5aHijuqT04gVy8upNy--1RA8nIs07m7O6YTAobQEJ
+#EXTINF:0 tvg-id="Polsat News 2" group-title="Informacyjne" timeshift="3", Polsat News 2
+http://8.team.ga:80/ch928/mono.m3u8?token=chrzonas.v2_SY3DMLX1m6gwt72zUUfP7YrAV8Z6vsPIjQvi3ds-DtPTxL6Aw7N6T5FsyJTFbRjSVY3RFYvCqcSl
+#EXTINF:0 tvg-id="Polsat Play" group-title="Lifestylowe" timeshift="3", Polsat Play
+http://8.team.ga:80/ch930/mono.m3u8?token=chrzonas.v2_TldZYvAcLmqWDvCo6h6pUOsI7xPgbJE4oAVl-mebvEmypUFxoQ0TAQ6Z73P2JKcjzlfCq3PAjuzi
+#EXTINF:0 tvg-id="Polsat Rodzina" group-title="Lifestylowe" timeshift="3", Polsat Rodzina
+http://8.team.ga:80/ch931/mono.m3u8?token=chrzonas.v2_bYdQq_8YgWLhHSJkQP5f5reDXOi0BZE_ToKPxnhJbSBTHikj6i0o3vXfG-gtdrsQWUaAxMDtnY8g
+#EXTINF:0 tvg-id="Polsat X" group-title="Lifestylowe" timeshift="3", Polsat X
+http://8.team.ga:80/ch3723/mono.m3u8?token=chrzonas.v2_gjfGY14m798CpJ_PM4caMbK147oP_xrM2hBYbHUGIVbECsbdYxIso5WwQy_Ipbclp-lHBhrwtP8jAg
+#EXTINF:0 tvg-id="Polsat Sport 1" group-title="Sportowe" timeshift="3", Polsat Sport 1
+http://8.team.ga:80/ch932/mono.m3u8?token=chrzonas.v2_V6z-982RRl_dUPZ6qgQ3pCFkP6-vOum3PQrRuByWHbKhvswsYK6Uweoxq7rzbvcKxZuUrAwdIT8X
+#EXTINF:0 tvg-id="Polsat Sport 2" group-title="Sportowe" timeshift="3", Polsat Sport 2
+http://8.team.ga:80/ch933/mono.m3u8?token=chrzonas.v2_0HHG7uBcS_Jo6SNGSQxPkzRnftatqyV6jQiuqk6ZD4hxAmNGeDP5Hzrulf_dBXQhfhSnJJGOq9Ei
+#EXTINF:0 tvg-id="Polsat Sport 3" group-title="Sportowe" timeshift="3", Polsat Sport 3
+http://8.team.ga:80/ch2489/mono.m3u8?token=chrzonas.v2_m6f28koAW9RM3bz7XmaB7aJSPeY3_IivDNw7e3TyUwDMRCZ2882H4_B2amYLXQ0esOufShsreuO90A
+#EXTINF:0 tvg-id="Polsat Sport Fight" group-title="Sportowe" timeshift="3", Polsat Sport Fight
+http://8.team.ga:80/ch2200/mono.m3u8?token=chrzonas.v2_iMVb4KrFybii4t0lUE0X-k8CmhLBgwwBI44FIvBED8d5BkUm-GHN9DJv2TkUyX-V8MJiSrw9i9AZUA
+#EXTINF:0 tvg-id="Polsat Sport Premium 1" group-title="Sportowe" timeshift="3", Polsat Sport Premium 1
+http://8.team.ga:80/ch934/mono.m3u8?token=chrzonas.v2_NpPYYLBp49tEZFX39bZ_V-GbmiexIUeNheqTpCEThVRaYW-VwIejBXlwKRf0VoLxZJc2aUEzRC6s
+#EXTINF:0 tvg-id="Polsat Sport Premium 2" group-title="Sportowe" timeshift="3", Polsat Sport Premium 2
+http://8.team.ga:80/ch935/mono.m3u8?token=chrzonas.v2_CUPhrl9nbW-1u4stu_ru4Eaj5CIlbzrxey6XANQqYxQW-sHBr8rey4FBzkBCDFsCE7nlEgr47_oL
+#EXTINF:0 tvg-id="Polsat Sport Extra 1" group-title="Sportowe" timeshift="3", Polsat Sport Extra 1
+http://8.team.ga:80/ch2092/mono.m3u8?token=chrzonas.v2_EIy8dSP7zvs4cZfMPE9tDBhJSSKpOWoYGlKSFliSZ3lzZfmTRqJV4xRkXugx28EkSIzO672r7Tg-zw
+#EXTINF:0 tvg-id="Polsat Sport Extra 2" group-title="Sportowe" timeshift="3", Polsat Sport Extra 2
+http://8.team.ga:80/ch2089/mono.m3u8?token=chrzonas.v2_ay-OKiXck9468KqVYX0Ny-oTwXLKTQGah36NkK7DGoymh7LH25qJk13Vwsvuwy4oV8-L_AHp6YlalA
+#EXTINF:0 tvg-id="Polsat Sport Extra 3" group-title="Sportowe" timeshift="3", Polsat Sport Extra 3
+http://8.team.ga:80/ch2090/mono.m3u8?token=chrzonas.v2_3BvJEaAKJbb9Ou1xgoVDyuqIP2p0K8Zko49CPmtMbboW8A4c0YNorNvTW3A_505x7v4L-7I6PM_SrQ
+#EXTINF:0 tvg-id="Polsat Sport Extra 4" group-title="Sportowe" timeshift="3", Polsat Sport Extra 4
+http://8.team.ga:80/ch2091/mono.m3u8?token=chrzonas.v2_PcRvgx013rEwojhG9Fri1vTD0uAdBBKE_eC8TfjueXZZLoNsuWGUwy_j-oZug7ncp0j81MEubqZWMg
+#EXTINF:0 tvg-id="Paramount Network" group-title="Filmowe" timeshift="3", Paramount Network
+http://8.team.ga:80/ch3729/mono.m3u8?token=chrzonas.v2_ri_bcBfzXlcu34OuQUEwoFxKoGA0P9cNWcatGePZLUWHkmWWTpIrYCh8ijtcjq5lKtM48hPSra-WhA
+#EXTINF:0 tvg-id="Power TV" group-title="Muzyczne" timeshift="3", Power TV
+http://8.team.ga:80/ch2190/mono.m3u8?token=chrzonas.v2_jpW0MmYXDlkpeg4zQgYbyhtcmYxynm96Jm8xY0olChp1INoTVXjtDJfTr6Xm9ZE757r48h7NTwg5Nw
+#EXTINF:0 tvg-id="Romance TV" group-title="Filmowe" timeshift="3", Romance TV
+http://8.team.ga:80/ch2150/mono.m3u8?token=chrzonas.v2_Jgpqteqate01P9mmGypKb8ij4m0RYvYvfrnFHSJ6Gi3ys1CZaMfeFc-ECfp4USRu1NMewAJmIeCdxA
+#EXTINF:0 tvg-id="Red Carpet TV" group-title="Filmowe" timeshift="3", Red Carpet TV
+http://8.team.ga:80/ch2153/mono.m3u8?token=chrzonas.v2_v52Eo8bu6GD3EQWQ35Hx7jImXdenTsFWeNtTXIFdf5b_0Ds1xa_3otweA_fFx7zK7XLGi_AwoHjH4w
+#EXTINF:0 tvg-id="SciFi" group-title="Filmowe" timeshift="3", SciFi
+http://8.team.ga:80/ch936/mono.m3u8?token=chrzonas.v2_cCFRGiQDLqfviqDQAHo4tfwSx2dr__xzcnFTaehWnw0_QZw12VK9PjjYWiU1A1nBloifDDYVbpSi
+#EXTINF:0 tvg-id="Sport Klub" group-title="Sportowe" timeshift="3", Sport Klub
+http://8.team.ga:80/ch937/mono.m3u8?token=chrzonas.v2_DztgIMo11l44yjRPKK8dJpdGFazy2TepHQRs7IGKR5aDxpaRBM-UbGDfFq2WbuM88wik9K5kI6uJ
+#EXTINF:0 tvg-id="Super Polsat" group-title="Lifestylowe" timeshift="3", Super Polsat
+http://8.team.ga:80/ch939/mono.m3u8?token=chrzonas.v2_sHHDu_bpxHQjI3ZViZBpiW3ex5Eugz7wAYxr-2GF08mBPQZAmFISf9HgeAfBH5rQITN42AC1S2q3
+#EXTINF:0 tvg-id="Sundance Channel" group-title="Filmowe" timeshift="3", Sundance Channel
+http://8.team.ga:80/ch938/mono.m3u8?token=chrzonas.v2_832b2AEOkvL1bCvkjXwXgaO32olw3_AVxdzERIDJAQZDeGhvBaD8V2MZEwMjCUWNyz-jEgXEKWHX
+#EXTINF:0 tvg-id="Stars TV" group-title="Muzyczne" timeshift="3", Stars TV
+http://8.team.ga:80/ch2145/mono.m3u8?token=chrzonas.v2_OyiUZTHMgE7O9_rbY-O6hEipmRP0SWWxnOqRcj61-Mgntx0IdYr5a9K-77NqAlynZmX-BlaNcrG0kw
+#EXTINF:0 tvg-id="StudioMed TV" group-title="Lifestylowe" timeshift="3", StudioMed TV
+http://8.team.ga:80/ch2187/mono.m3u8?token=chrzonas.v2_GfQsx1kbfFz6rkXEFbI2wufEeeiBO7m-cfeUjq156hchRN4-KXTuo0L8-4rLo0dH81OnIuPmxrjBXg
+#EXTINF:0 tvg-id="Stopklatka" group-title="Filmowe" timeshift="3", Stopklatka
+http://8.team.ga:80/ch2201/mono.m3u8?token=chrzonas.v2_k4hPO_jc8zb8uqGASXgkp95BujT-D0eB7AbaNeuuQiJet8hbhMKqLVlhGx8AKCX01KM8rFdLdQM8xg
+#EXTINF:0 tvg-id="Teletoon+" group-title="Dla dzieci" timeshift="3", Teletoon+
+http://8.team.ga:80/ch940/mono.m3u8?token=chrzonas.v2_VGes3Xiq__wapnaMA4VEdFyjFzqNXulv_LT5aia1aMOqU3RjamWv9-WP8NQaY0etXkjj4XArgSjf
+#EXTINF:0 tvg-id="TLC" group-title="Lifestylowe" timeshift="3", TLC
+http://8.team.ga:80/ch941/mono.m3u8?token=chrzonas.v2_YJQYL4UWdoZDbY7dSRyJEnksDBcAUM1FnEOqVPMTV6JtqjJRLRsNjIkQTeH-snacQ-5H0-oMEV8x
+#EXTINF:0 tvg-id="Travel Channel" group-title="Dokumentalne" timeshift="3", Travel Channel
+http://8.team.ga:80/ch943/mono.m3u8?token=chrzonas.v2_hxdN2OlFXPC0niyCgwxu6gOZz3YN-c1YgAy508WiBC84pqntiOefnvwhbYMXwEI_iREDwglzaZ0m
+#EXTINF:0 tvg-id="TravelXP 4K" group-title="Dokumentalne" timeshift="3", TravelXP 4K
+http://8.team.ga:80/ch3726/mono.m3u8?token=chrzonas.v2_-D5GWGsoX8Hi05kxtO4F0dazCwQBtW3NzVAHZEBtEBWbn5AkcSS73AhdB0_2rHigPjf3fya5J-L1-Q
+#EXTINF:0 tvg-id="TTV" group-title="Lifestylowe" timeshift="3", TTV
+http://8.team.ga:80/ch944/mono.m3u8?token=chrzonas.v2_BU28hFR_MsenM6wYel5EDb0CU7VjsO2dBz_JhGUjm7gb61DMq0_0Nuvn_qINca1cWJG3-yZ9T4gK
+#EXTINF:0 tvg-id="TV 6" group-title="Lifestylowe" timeshift="3", TV 6
+http://8.team.ga:80/ch945/mono.m3u8?token=chrzonas.v2_TesTHowlGz4x4kO-M7xDtlAZpg1_MXREcg9VgFtQKJrOxx4gBtoRgLmCYmbDxoDVBvwARh-dzMjz
+#EXTINF:0 tvg-id="TV Puls" group-title="Filmowe" timeshift="3", TV Puls
+http://8.team.ga:80/ch946/mono.m3u8?token=chrzonas.v2_gwGjT9um7DABeLjKMMgwKqmWvsTBThV0_5snHD4X8LkYwxTWjvLfMtkuZYkNMaH7k69mmRgSBE_x
+#EXTINF:0 tvg-id="TV Puls 2" group-title="Filmowe" timeshift="3", TV Puls 2
+http://8.team.ga:80/ch947/mono.m3u8?token=chrzonas.v2_WfSCbSFYjXtNE6n9W2XTVHAJI51vNfl0M5FdXEzMywNXIkuQyHtMcARqy0oeE5cC8x4SN-85spFk
+#EXTINF:0 tvg-id="TV4" group-title="Ogólnotematyczne" timeshift="3", TV4
+http://8.team.ga:80/ch948/mono.m3u8?token=chrzonas.v2_ed6MXQ2Ajo0qaM0HHeIdO5kfZ4mp-SX4CkIYyr6PU8lBU8b2Ot6E7JKKFJrCRTIu6EB6VEVOmcSe
+#EXTINF:0 tvg-id="TVN" group-title="Ogólnotematyczne" timeshift="3", TVN
+http://8.team.ga:80/ch949/mono.m3u8?token=chrzonas.v2_MHdfLQmKsBN51GbAZsvOzGzOuGmjgvsoryiq5pxPBiESWTi2RpgkGy0szRs0-3wxWdXCnplNOrNF
+#EXTINF:0 tvg-id="TVN 24" group-title="Informacyjne" timeshift="3", TVN 24
+http://8.team.ga:80/ch950/mono.m3u8?token=chrzonas.v2_T89-ql55VIVjaNYzZJ8SX3onUM7M8Ng5PAJQ8ywVy1ZiBVhwTq1D770rdjU9SkWgQJ-MGDsqOUlo
+#EXTINF:0 tvg-id="TVN 24 BiS" group-title="Informacyjne" timeshift="3", TVN 24 BiS
+http://8.team.ga:80/ch951/mono.m3u8?token=chrzonas.v2_Z_0YyXZAfs3LQBfKUZltFIX3fqy3SvNrtpVxiXwqTix-roH0NwFTgC9sgZsguYt0cC8100kCC_64
+#EXTINF:0 tvg-id="TVN 7" group-title="Ogólnotematyczne" timeshift="3", TVN 7
+http://8.team.ga:80/ch952/mono.m3u8?token=chrzonas.v2_PrnHz3rtJhFnlkYgWwdkRR9jNNr9IeNR5zW1ayMVkS6BEY5zju45zu93fJTD32cnuezFEPRWfSZr
+#EXTINF:0 tvg-id="TVN Fabuła" group-title="Filmowe" timeshift="3", TVN Fabuła
+http://8.team.ga:80/ch953/mono.m3u8?token=chrzonas.v2__-dFfaLlkF53IM3CBYyftQvBwFcxvbKRQi1ldOneogbck7u4fwZp6LBAjKlTVp7aJ_nmle_hiuXi
+#EXTINF:0 tvg-id="TVN Style" group-title="Lifestylowe" timeshift="3", TVN Style
+http://8.team.ga:80/ch954/mono.m3u8?token=chrzonas.v2_4pJGqNjMwKKcNmtJHw4ED4ClTDkD2SX_LHPccexpUZW4SPQA-wNqFbDZ8rf7ERR3A1CpZnmxHzx8
+#EXTINF:0 tvg-id="TVN Turbo" group-title="Lifestylowe" timeshift="3", TVN Turbo
+http://8.team.ga:80/ch955/mono.m3u8?token=chrzonas.v2_NtF98cNQxmPOBheW_Kx1xhCoMxz-X0_BBNDkQpW5VD5BDNxZ9gQ6CGGJW2O_AdDn8JZovUC6PTKe
+#EXTINF:0 tvg-id="TVP HD" group-title="Ogólnotematyczne" timeshift="3", TVP HD
+http://8.team.ga:80/ch959/mono.m3u8?token=chrzonas.v2_-F97ydjupGaNK_6DwlTPe76ZUO5DzSF3QzeqVhSLYLRrDGTe8V6p5wo-OGMBR8SN7KWD7iVSyXsP
+#EXTINF:0 tvg-id="TVP 1" group-title="Ogólnotematyczne" timeshift="3", TVP 1
+http://8.team.ga:80/ch956/mono.m3u8?token=chrzonas.v2_zpuTJXPSn-KLaPSDzAZbo6ZEhI3vFdxpznxeEB73l0exUfIuJqM0Gm57p-YZmu1rsIg8ar6yX-hZ
+#EXTINF:0 tvg-id="TVP 2" group-title="Ogólnotematyczne" timeshift="3", TVP 2
+http://8.team.ga:80/ch957/mono.m3u8?token=chrzonas.v2_hML8vjS-Hs3pzluGRgd0znBepjpTm-BtQlmXWiaRc7l10QMqwAfIBB9izh_D2rx5sr-CqXWmnh9m
+#EXTINF:0 tvg-id="TVP 3" group-title="Ogólnotematyczne" timeshift="3", TVP 3
+http://8.team.ga:80/ch966/mono.m3u8?token=chrzonas.v2_eoJ9FaZ2xdVMXbRaQ1KTHu14wZjK48HIoACNhoAc9OepJ7ZKl7O45R573P41swjT-6miSbJ2Ca0d
+#EXTINF:0 tvg-id="TVP ABC" group-title="Dla dzieci" timeshift="3", TVP ABC
+http://8.team.ga:80/ch958/mono.m3u8?token=chrzonas.v2_0DUjAoG04rEn_8fM9faLnzHToqniF3TQnacd7xNB6qpJy-cY9QPITGCSH18pryQ1dgzSVN5EKx7S
+#EXTINF:0 tvg-id="TVP Historia" group-title="Dokumentalne" timeshift="3", TVP Historia
+http://8.team.ga:80/ch960/mono.m3u8?token=chrzonas.v2_oq8jAYHApcd5MlEIGn5F3NiDP8NrXYPAtGB4Nr8ZvobOG3qjCb2wa0LSuf3jhH6X5m4rbIgOH7zi
+#EXTINF:0 tvg-id="TVP Rozrywka" group-title="Lifestylowe" timeshift="3", TVP Rozrywka
+http://8.team.ga:80/ch961/mono.m3u8?token=chrzonas.v2_7jaF8IbOw5ihxkz-1dZPVYgGmfPlqv4afze2gQ1DFg5vG_nEkdeoJNpzkHUh5WaHqG6zRh1CUXig
+#EXTINF:0 tvg-id="TVP Seriale" group-title="Filmowe" timeshift="3", TVP Seriale
+http://8.team.ga:80/ch962/mono.m3u8?token=chrzonas.v2_LCcID1AUCr4fabqFgCA7IRx3pbS8kCBY_gtG4szbOrNaLMsalii94bL-s99rHYw8u91X5TgKo7up
+#EXTINF:0 tvg-id="TVP Sport" group-title="Sportowe" timeshift="3", TVP Sport
+http://8.team.ga:80/ch963/mono.m3u8?token=chrzonas.v2_L0camd474f9giokYUHd1ZZZxwf3GAXaauTIqKmQzCPf2X3C7vNtW-RNCd2mbYVWTWHRIV3QNJiQl
+#EXTINF:0 tvg-id="TVP Info" group-title="Informacyjne" timeshift="3", TVP Info
+http://8.team.ga:80/ch964/mono.m3u8?token=chrzonas.v2_VJhHTqC6MyV2SfEahyPmPlESaluDghqBl6rcDL8V2yzpAu87yf15HLP8CkTo3bdN4AKQ4sllq2Dk
+#EXTINF:0 tvg-id="TVP Kultura" group-title="Filmowe" timeshift="3", TVP Kultura
+http://8.team.ga:80/ch965/mono.m3u8?token=chrzonas.v2_YDkwg_jwZYs3q0r6OO5_MpSQWzzcnuW84b73-AESL7Rv2p_fljlE8JhCGJI51fvOLsk9gi0SZH6i
+#EXTINF:0 tvg-id="TVP Polonia" group-title="Filmowe" timeshift="3", TVP Polonia
+http://8.team.ga:80/ch2183/mono.m3u8?token=chrzonas.v2_fiq-fbKiwJUWKzgUL72M8kAPM1oloa_o9-J2B-6eWTBkG66YMduK6lVqx5hMk0wDt5dx8Qsfv6V7Tw
+#EXTINF:0 tvg-id="TVS" group-title="Lifestylowe" timeshift="3", TVS
+http://8.team.ga:80/ch2135/mono.m3u8?token=chrzonas.v2_PnuN8BQjmXrz0CEktqBbJx_c9zs2OvGrlWbYWBfTQq_ctYwI5lz-SrStkpjuTbTLRiiZ2QHCvnWUqw
+#EXTINF:0 tvg-id="Tele5" group-title="Lifestylowe" timeshift="3", Tele5
+http://8.team.ga:80/ch2186/mono.m3u8?token=chrzonas.v2_EtYpNN5eSC6ybrRQYVZs71_dVG5YY2W2cG1BRsFQHF9T90noyWl8n_HAFwZWyOM0qSyGgd1ZxtH5Mw
+#EXTINF:0 tvg-id="TV Republika" group-title="Informacyjne" timeshift="3", TV Republika
+http://8.team.ga:80/ch2136/mono.m3u8?token=chrzonas.v2_zWt-S0WwAEK4aGmmyBIjLxSEIkYJBi4r4fIZg7A5sIkGx_eke-obqclFPyAWvsauKOrizKHxmynqaQ
+#EXTINF:0 tvg-id="TV Trwam" group-title="Informacyjne" timeshift="3", TV Trwam
+http://8.team.ga:80/ch3837/mono.m3u8?token=chrzonas.v2_38ac5lN8exroxxeCiyIF8BIDJkR3fcLjGfxS0mQuwKZxn4ifOok9g6Fp8f5q6eiYNdl5hItEtdKTMw
+#EXTINF:0 tvg-id="Viasat History" group-title="Dokumentalne" timeshift="3", Viasat History
+http://8.team.ga:80/ch967/mono.m3u8?token=chrzonas.v2_b_ysFgcgNMe54MhD7xXEt0SZDndGqym14SZn3a0yZQ6BSJav9jnebf224E8wZUGxWIZAUSdzZc3S
+#EXTINF:0 tvg-id="Viasat Nature" group-title="Dokumentalne" timeshift="3", Viasat Nature
+http://8.team.ga:80/ch2139/mono.m3u8?token=chrzonas.v2_bWXlG54WfqGhKwHEbaTwj-wpAkz4nU4kpnmUZ6j0NInPWcreheg7ijntEdtxbUvrIjS7FxRTwP2EBQ
+#EXTINF:0 tvg-id="Viasat Explore" group-title="Dokumentalne" timeshift="3", Viasat Explore
+http://8.team.ga:80/ch2140/mono.m3u8?token=chrzonas.v2_HD4ck8gpLDGjKNbh6jfxm3p1WeJrJknxWeFkLqHAl5xytyJVFIJl1u-5TMytql8osXE7AkrKf9U6gg
+#EXTINF:0 tvg-id="Water Planet" group-title="Dokumentalne" timeshift="3", Water Planet
+http://8.team.ga:80/ch3737/mono.m3u8?token=chrzonas.v2_JbHnpJil14U87pTlcE8N3LgWXzGFvj6-Guwy7xYnpjJOfi2Te4zjHwYxLpqYPO2Yb7EzkYqsUgbDyA
+#EXTINF:0 tvg-id="WP" group-title="Lifestylowe" timeshift="3", WP
+http://8.team.ga:80/ch968/mono.m3u8?token=chrzonas.v2_wqV5LLR77gSgktc2kn0pUbLx6qOAq9pKEfzyXOXJSWGiHrM8cIKXqpXPCvE4bXY-Aylc0TmidxwC
+#EXTINF:0 tvg-id="wPolsce.pl" group-title="Informacyjne" timeshift="3", wPolsce.pl
+http://8.team.ga:80/ch2184/mono.m3u8?token=chrzonas.v2_1TrNnauZhvLq73r2JubWm9I6TXdwIblEJALB1-IuhZbK9PjVR_GkIqiKfZO17dk55HQa-CLzNq93jg
+#EXTINF:0 tvg-id="Warner TV" group-title="Filmowe" timeshift="3", Warner TV
+http://8.team.ga:80/ch2065/mono.m3u8?token=chrzonas.v2_WZRZDrV3zBfxqa3cMpX99t8r93Hpo9hn64mNKLz0fX5KqAU1DVj2-pBYUFmS_P25qSmrg4LkmaN35A
+#EXTINF:0 tvg-id="Wydarzenia 24" group-title="Informacyjne" timeshift="3", Wydarzenia 24
+http://8.team.ga:80/ch2206/mono.m3u8?token=chrzonas.v2_ENo-WbGtw5djSy0mJqD4KNL2nyHn_ALOCVhTj6YrsZ0ilHSGC2gcH5yAj3Tay8YxkDeUpbRr3-Q7-g
+#EXTINF:0 tvg-id="Zoom TV" group-title="Lifestylowe" timeshift="3", Zoom TV
+http://8.team.ga:80/ch2205/mono.m3u8?token=chrzonas.v2__Ocan2Y3JLjxR_g-7jkEMdEPUBHDB29DpJx8kgMXGCNmTPGZ3RcNHHAKCyEkaTz4--kli8ovdzh87A
+#EXTINF:0 tvg-id="RT" group-title="Zagraniczne" timeshift="0", RT
+http://8.team.ga:80/ch127/mono.m3u8?token=chrzonas.v2_i6FKi7A8wXSspp27PZI-TMoqmYMN-IR3J75DlAzxhY95yTmXX5CZaWaAl3t7UKk0Tu4fItF7t2e-
+#EXTINF:0 tvg-id="CNBC" group-title="Zagraniczne" timeshift="3", CNBC
+http://8.team.ga:80/ch2117/mono.m3u8?token=chrzonas.v2_5fYkuLVaqCqTHf6hDSEDaLgzOYRX1TZ34Ear3U3XCehlsKzvlP_ibhxmS0brMA4z5CyX91spySub0g
+#EXTINF:0 tvg-id="EuroNews" group-title="Zagraniczne" timeshift="1", EuroNews
+http://8.team.ga:80/ch498/mono.m3u8?token=chrzonas.v2_L00FX5iKtqu6NccWm7x_afktotccm4sJ622WHrzlqm0Eq5r3wN2ClfSZs68a2ch6mJWHlMn_xbUI
+#EXTINF:0 tvg-id="BBC World News Europe" group-title="Zagraniczne" timeshift="0", BBC World News Europe
+http://8.team.ga:80/ch499/mono.m3u8?token=chrzonas.v2_GNp-Xb07Ib4c3hgxKUzs4ISoJLc9VU2XtccPu3whtzDwEgDDbFqvF94Eef0347-aw9OHWcssief1
+#EXTINF:0 tvg-id="CNN" group-title="Zagraniczne" timeshift="0", CGTN
+http://8.team.ga:80/ch3319/mono.m3u8?token=chrzonas.v2_7WI28ERqd1nuXQS6Os3ssK24SLK0Pb7vZxzC2Tal6uvjIylAS7jR2dkkDgdK2f_AkzbhyhXZNByOEg
+#EXTINF:0 tvg-id="CNN" group-title="Zagraniczne" timeshift="0", CNN
+http://8.team.ga:80/ch500/mono.m3u8?token=chrzonas.v2_6tBS3U8J30kYolLsMh33_wfRhfskqfWKPwT-jvPnNaUmWv5FomCSKU8dlWwy19vBs6ffG3XTojnk
+#EXTINF:0 tvg-id="FOX News" group-title="Zagraniczne" timeshift="0", FOX News
+http://8.team.ga:80/ch2093/mono.m3u8?token=chrzonas.v2_GUkv17iSciweGR4zOBrRvezMnNsVxQROChRlYi8JRKUA0-6rGC4cl0GLMO1xBWe8ricJwAJQns4ISw
+#EXTINF:0 tvg-id="Asharq News" group-title="Zagraniczne" timeshift="0", Asharq News
+http://8.team.ga:80/ch1943/mono.m3u8?token=chrzonas.v2_V9XEVjubqWsSDig1os0M-gDD2GS7qhVdIhx7zRvQzKjNE-NqwS5MVP4GreD3HgIA79WmuYsu0_VuLw
+#EXTINF:0 tvg-id="France 24" group-title="Zagraniczne" timeshift="0", France 24
+http://8.team.ga:80/ch1944/mono.m3u8?token=chrzonas.v2_3YhNDNruiNw7vstJEiZG2-d-PcTptf-gjEDtwCzJJkRd1GaPNVTUob8seEGv3OqR2Y-e_NvO2TaMsw
+#EXTINF:0 tvg-id="Al Jazeera" group-title="Zagraniczne" timeshift="0", Al Jazeera
+http://8.team.ga:80/ch1945/mono.m3u8?token=chrzonas.v2_zg4etdjngBC-YSZVl_dZqwApFTvlXkDuO_LUzBReTdZo9taRSeXjl-jnSCoD45UtIqWSwwZvZUQjzA
+#EXTINF:0 tvg-id="Bloomberg TV" group-title="Zagraniczne" timeshift="0", Bloomberg TV
+http://8.team.ga:80/ch1917/mono.m3u8?token=chrzonas.v2_6_8V3azsLuIRPHsVbWpTn8WyOosfCV3ajrdJ_UWwyQzgE1yUpsU0GxtWB8UT46c7nZBz1y8YLx8TAQ
